@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DavidWang621/DavidWang621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### My Stats :
+<img align="left" alt="davidLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWang621&theme=ayu-mirage&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,ejs"/>
+<img align="center" alt="davidStats" src="https://github-readme-stats.vercel.app/api?username=DavidWang621&show_icons=true&theme=ayu-mirage" width="49.5%"/>
